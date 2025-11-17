@@ -1,0 +1,57 @@
+{
+  "cheapestRetailer" : "Amazon",
+  "books" : [ {
+    "book" : {
+      "name" : "The Monk Who Sold His Ferrari",
+      "quantity" : 10
+    },
+    "retailer" : {
+      "name" : "Amazon",
+      "prices" : null,
+      "url" : "https://www.amazon.in"
+    },
+    "price" : 198.0,
+    "quantity" : 1,
+    "available" : true
+  }, {
+    "book" : {
+      "name" : "The Candy House",
+      "quantity" : 5
+    },
+    "retailer" : {
+      "name" : "Amazon",
+      "prices" : null,
+      "url" : "https://www.amazon.in"
+    },
+    "price" : 260.0,
+    "quantity" : 1,
+    "available" : true
+  }, {
+    "book" : {
+      "name" : "The God Of Small Things",
+      "quantity" : 6
+    },
+    "retailer" : {
+      "name" : "Amazon",
+      "prices" : null,
+      "url" : "https://www.amazon.in"
+    },
+    "price" : 641.0,
+    "quantity" : 1,
+    "available" : true
+  }, {
+    "book" : {
+      "name" : "The White Tiger",
+      "quantity" : 20
+    },
+    "retailer" : {
+      "name" : "Amazon",
+      "prices" : null,
+      "url" : "https://www.amazon.in"
+    },
+    "price" : 399.0,
+    "quantity" : 1,
+    "available" : true
+  } ],
+  "totalPrice" : 15106.0
+}

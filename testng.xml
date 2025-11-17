@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/abhijayghadyale/IdeaProjects/BookHunt Automation Quest - Everest Engineering SDET Coding challenge/src/test/java/com/sdet/assignment/tests/BookRetailerTest.java"><classes><class name="com.sdet.assignment.tests.BookRetailerTest"><methods><include name="findCheapestRetailer"/><include name="addToCartAndVerifyPrice"/></methods></class></classes></test></suite>
