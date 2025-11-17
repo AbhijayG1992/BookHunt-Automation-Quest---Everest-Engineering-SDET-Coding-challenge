@@ -9,7 +9,6 @@ public class Book {
         this.quantity = quantity;
     }
 
-    // Getters and setters
     public String getName() {
         return name;
     }
